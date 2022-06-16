@@ -2,6 +2,7 @@
     display: flex;
     border-bottom: 1px solid lightgrey;
     margin-right: 5px;
+    padding-bottom: 30px;
 }
 .allProduct{
     padding-left: 15px;
@@ -13,8 +14,9 @@
 .btn{
     background-color: goldenrod;
     width: 150px;
-    height: 30px;
-    border: 1px solid lightgray;
+    height: 25px;
+    font-weight: 600;
+    border: 1px solid gray;
     border-radius: 5px;
     
 }
