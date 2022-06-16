@@ -12,7 +12,7 @@ export default function Cart(props) {
             <h3> Order Summary</h3>
             <h5>Item order: {props.cart.length}</h5>
             <br />
-            <p>total : {total}</p>
+            <p>total : {total  }</p>
         </div>
     )
 }
