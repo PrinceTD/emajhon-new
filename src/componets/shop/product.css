@@ -1,0 +1,12 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    margin-right: 5px;
+}
+.allProduct{
+    padding-left: 15px;
+}
+.productName{
+    color: blue;
+    font-weight: 600;
+}
