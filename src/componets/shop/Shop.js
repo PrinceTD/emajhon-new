@@ -17,6 +17,7 @@ export default function Shop() {
                 <h3> Product: {products.length}</h3>
                 {
                     products.map(product => <ProductsSIngle product={product}
+                        key={product.key}
                     ></ProductsSIngle>)
                 }
             </div>

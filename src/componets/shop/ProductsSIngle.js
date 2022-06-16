@@ -14,9 +14,8 @@ export default function ProductsSIngle(props) {
             <p>${price}</p>
 
            </div>
-           <p>only {stock} left in stock - order soon
-
-</p>
+           <p>only {stock} left in stock - order soon</p>
+           <button className='btn'>add to card</button>
            </div>
             
         </div>
